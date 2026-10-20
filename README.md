@@ -70,6 +70,20 @@ This creates the required category folders and moves the files.
 | `.png`, `.jpg`, `.jpeg` | Images |
 | Unknown extensions and files without extensions | Other |
 
+## Screenshots
+
+### 1. Organized Folder Structure
+
+The final folder structure after running the file organization automation script.
+
+![Organized Folder Structure](Screenshots/FileStruct.png)
+
+### 2. Terminal Execution Summary
+
+The terminal output showing file categorization and the summary of files processed.
+
+![Terminal Execution Summary](Screenshots/Summary.png)
+
 ## What I Learned
 
 - Working with Python dictionaries and functions.
